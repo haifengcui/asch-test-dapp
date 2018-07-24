@@ -1,0 +1,17 @@
+{
+  "name": "Asch-test-dapp",
+  "link": "https://github.com/haifengcui/asch-test-dapp.zip",
+  "category": 1,
+  "description": "Demo of asch dapp",
+  "tags": "asch,dapp,demo",
+  "icon": "https://yourdomain.com/logo.png",
+  "delegates": [
+    "1b559bc1c19cbce7aa322d1cad9c8397d30453adf9806b30bd2cefc9ec6bd430",
+    "538a8e59599175c5f6849fba601b3499ca8c83856d2218af06fe87797ffe71e6",
+    "22326a0e89d94822b18b01b255fa5e57b37308d122826dce9aca2ae20eb117e0",
+    "7ce9923aaf96e7a897b12bcecf44d56016eb0c11dec86deff98b24987c9e5bc6",
+    "700d5af0ad30f183d248f5f4b9b2049aa630ca935f782bb208bd4e7a224e4e69"
+  ],
+  "unlockDelegates": 3,
+  "type": 0
+}
